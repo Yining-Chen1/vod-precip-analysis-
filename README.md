@@ -2,6 +2,7 @@
 
 ## Question / Hypotheses
 **Research Question:** How seasonal precipitation anomalies influence vegetation optical depth (VOD) across two climatically contrasting regions: the tropical savannas of northern Australia and the Sahel region of northern Africa? 
+
 **Hypothesis 1:** The strength and pattern of the VOD response to precipitation anomalies differ between these two regions due to differences in ecosystem structure and rainfall seasonality.  
 **Hypothesis 2:** VOD exhibits a lagged response to precipitation anomalies, and the optimal lag period varies between regions.
 
